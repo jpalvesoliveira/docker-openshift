@@ -1,0 +1,2 @@
+DOTNET_STARTUP_PROJECT=Agora.Brokerage.Cadastro.DadosAcesso.API/Agora.Brokerage.Cadastro.DadosAcesso.API.csproj
+DOTNET_PUBLISH=true
